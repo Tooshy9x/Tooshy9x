@@ -1,4 +1,4 @@
-# Hi, I'm cxyfreedom
+# Hi, I'm TOOSHY
 
 A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
 
