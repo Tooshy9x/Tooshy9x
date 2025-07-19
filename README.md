@@ -1,6 +1,6 @@
 # Hi, I'm TOOSHY
 
-A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
